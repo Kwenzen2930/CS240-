@@ -1,2 +1,0 @@
-# CS240-
-This is all my CS240 ASSIGNMENT
